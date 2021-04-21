@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Git anf React
+          Learn Git anf React from Sushil
         </a>
       </header>
     </div>
