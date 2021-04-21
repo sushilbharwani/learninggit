@@ -15,11 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
-         Learn Git anf React Together
-=======
-          Learn Git anf React Together
->>>>>>> learning Pull Requests
+          Learn Git anf React
         </a>
       </header>
     </div>
