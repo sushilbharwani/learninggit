@@ -16,6 +16,9 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Git anf React from Sushil
+          Learning Rebase Commit First
+          Learning Rebase Commit Second
+          Learning Rebase Commit Third 
         </a>
       </header>
     </div>
