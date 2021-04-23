@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn Git for first time
+          Learn Git anf React Together
         </a>
       </header>
     </div>
