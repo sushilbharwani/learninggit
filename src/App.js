@@ -15,8 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Git for first time
-          Learn Git anf React Together
+         Learn Git anf React Together
         </a>
       </header>
     </div>
